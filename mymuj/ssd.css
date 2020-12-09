@@ -1,0 +1,52 @@
+#mymuj1 {
+    font-family: "Times New Roman";
+    font-size: 150px;
+    color: red;
+    text-align: center;
+
+    
+}
+#mymuj2 {
+    font-family: "Arial";
+    font-size: 12pt;
+    color: rgb(250, 18, 18);
+    text-align: right;
+    word-spacing: 10pt;
+    line-height: 1.8;
+    letter-spacing: 1px;
+    width: 300px;
+    padding: 50px;
+    margin: 50px;
+    transform: translate(300%, -5%);
+    background: white;
+    border: 9pt solid green;
+    
+
+}
+body {
+    color: white;
+    background-color: black;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url("images/Qnko.jpg")
+    
+}
+.mymuj2  {
+    font-family: "Arial";
+    font-size: 24pt;
+    color: red;
+    text-align: center;
+    transform: translate(30%, -1500%);
+    width: 300px;
+    padding: 50px;
+    margin: 50px;
+}
+.mymuj3 {
+    transform: translate(10%, -850%);
+    align-items: left;
+}
+.mymuj4 {
+    transform: translate(10%, -850%);
+    align-items: left;    
+}
